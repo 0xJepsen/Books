@@ -29,7 +29,7 @@ Books that I have read are not always endorsements of those books.
 | Numerical Recipies | Saul Teukolsky, William H. Press, and William T. Vetterling | Algorithms and Numerical Analysis | Textbook |
 
 
-I This list will likely grow as i remember to add to it.
+This list will likely grow as i remember to add to it.
 
 
 
