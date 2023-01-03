@@ -27,6 +27,19 @@ Books that I have read are not always endorsements of those books.
 | The Myth of Sisyphus | Albert Cammus | Absurdism | Philosophy |
 | Introduction to the Theory of Computation | Michael Sipser | Theory of Computation | Textbook |
 | Numerical Recipies | Saul Teukolsky, William H. Press, and William T. Vetterling | Algorithms and Numerical Analysis | Textbook |
+| The Martian| Andy Weir | Lost in Space | Science fiction, Novel |
+| How to be an Adult in Relationships | David Richo | The Five Keys to Mindful Loving | Psychology |
+| Sapiens | Yuval Noah Harari | A Brief History of Humankind | Non-Fiction |
+| An Introduction to Mathematical Cryptography | Jeffrey Hoffstein | Theory and Practice of Modern Cryptography | Textbook |
+| Conduct of Inquiry | Richard F. Kitchener | An Introduction of Logic and Scientific Method | Textbook |
+| On the Brink of Paradox | Agustín Rayo | Highlights from the Intersection of Philosophy and Mathematics | Textbook |
+| The Rust Programming Language | Steve Klabnik | The official book on the Rust programming language | Textbook |
+| The Subtle Art of Not Giving a Fuck | Mark Manson | A Counterintuitive Approach to Living a Good Life | Self-Help |
+
+
+
+
+
 
 
 This list will likely grow as i remember to add to it.
