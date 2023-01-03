@@ -8,9 +8,12 @@ Books that I have read are not always endorsements of those books.
 
 | Title        | Author    | Summary | Genre |
 |--------------|-----------|---------|-------|
-| Atomic Habits  | James Clear | Tiny Changes, Remarkable Results | Self Help |
+| Atomic Habits  | James Clear | Tiny Changes, Remarkable Results | Psychology |
 | Quantitative Portfolio Management  | Michael Isichenko | The Art and Science of Statistical Arbitrage |  Business + Money Management |
 | Hackers and Painters | Paul Graham | Big Ideas From the Computer Age| Programming |
+| Why We Sleep | Matthew Walker | The New Science of Sleep and Dreams | Science |
+| The Most Human Human | Brian Christian | What Talking with Computers Teaches Us About What It Means to Be Alive | Science, AI |
+
 
 ### What I have read
 
@@ -35,22 +38,15 @@ Books that I have read are not always endorsements of those books.
 | On the Brink of Paradox | Agustín Rayo | Highlights from the Intersection of Philosophy and Mathematics | Textbook |
 | The Rust Programming Language | Steve Klabnik | The official book on the Rust programming language | Textbook |
 | The Subtle Art of Not Giving a Fuck | Mark Manson | A Counterintuitive Approach to Living a Good Life | Self-Help |
-
-
-
-
-
+| Seven Years in Tibet | Heinrich Harrer | Life in Tibet just before the Chinese Communist takeover | AutoBiography |
+| Algorithms to Live By | Brian Christian, Tom Griffiths | The Computer Science of Human Decisions | Psychology |
+| The C Programing Langauge | Dennis Ritchie, Brian Kernighan | The C Programing Language | Textbook |
+| Hacking | Jon Erickson | The Art of Exploitation | Textbook |
+| The Sacred Mushroom and The Cross | John M. Allegro | Dead Sea Scrolls | Folklore |
+| The Art of War | Sun Tzu | Ancient Chinese Military Treatise | Biography |
+| The Satanic Bible | Anton S. Lavey | Essays, Observations, and Rituals | Spirituality |
+| The Prophet | Kahlil Gibran | 26 prose poetry fables | Poetry |
 
 
 This list will likely grow as i remember to add to it.
-
-
-
-
-
-
-
-
-
-
 
