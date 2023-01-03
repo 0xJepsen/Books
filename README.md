@@ -1,8 +1,8 @@
 # Books
 
-What I am reading, what I have read, and what I would like to read. Suggest a book with a PR.
+What I am reading, what I have read, and what I would like to read. Suggest a book with a PR...
 
-Books that I have read are not always endorsements of those books.
+Books that I have read are not always endorsements of those books. I believe that reading is a cheat code to life.
 
 ### What is on my list to read in order
 
@@ -46,7 +46,9 @@ Books that I have read are not always endorsements of those books.
 | The Art of War | Sun Tzu | Ancient Chinese Military Treatise | Biography |
 | The Satanic Bible | Anton S. Lavey | Essays, Observations, and Rituals | Spirituality |
 | The Prophet | Kahlil Gibran | 26 prose poetry fables | Poetry |
+| Discrete Mathematics | László Lovász | Elementary and Beyond | Textbook |
+| The Intelligent Heart | Kongtrul Rinpoche and Joseph Waxman | A Guide to a Compassionate Life | Tibetan Buddhism |
+| The Tibetan way of Life Death and Rebirth | John Peacock | Tibet’s Ancient Bon religion | Tibetan Buddhism, Folklore |
+| How to win friends and influence people | Dale Carnegie | How to stop worrying and start living | Self Help |
 
-
-This list will likely grow as i remember to add to it.
-
+This list will likely grow as I remember to add to it. This list currently excludes a large quantity of fantasy and fiction books that I read during my Childhood. 
