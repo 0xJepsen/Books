@@ -8,7 +8,6 @@ Books that I have read are not always endorsements of those books. I believe tha
 
 | Title        | Author    | Summary | Genre |
 |--------------|-----------|---------|-------|
-| Atomic Habits  | James Clear | Tiny Changes, Remarkable Results | Psychology |
 | Quantitative Portfolio Management  | Michael Isichenko | The Art and Science of Statistical Arbitrage |  Business + Money Management |
 | Hackers and Painters | Paul Graham | Big Ideas From the Computer Age| Programming |
 | Why We Sleep | Matthew Walker | The New Science of Sleep and Dreams | Science |
@@ -20,6 +19,7 @@ Books that I have read are not always endorsements of those books. I believe tha
 
 | Title        | Author    | Summary | Genre |
 |--------------|-----------|---------|-------|
+| Atomic Habits  | James Clear | Tiny Changes, Remarkable Results | Psychology |
 | No Rules Rules | Reed Hastings and Erin Meyer | Hard work is irrelevant. Be radically honest. And never, ever try to please your boss. | Business|
 | The Innovator's Dilemma | Clayton Christensen | When New Technologies Cause Great Firms to Fail | Business theory|
 | The Code Book | Simon Singh | The Science of Secrecy from Ancient Egypt to Quantum Cryptography | Non-Fiction |
