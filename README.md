@@ -15,6 +15,12 @@ Books that I have read are not always endorsements of those books. I believe tha
 | Proof of Stake | Vitalik Buterin | The Making of Ethereum and the Philosophy of Blockchains | Blockchains |
 | Rust for Rustacians | Jon Gjengset | Idiomatic Programing for Experienced Developers | Programming |
 | Gödel, Escher, Bach | Douglas Hofstadter | An Eternal Golden Braid | Cognitive Science |
+| More Money Than God: Hedge Funds and the Making of a New Elite | Sebastian Mallaby | Detailed history of hedge funds | Finance |
+| Trading at the Speed of Light: How Ultrafast Algorithms Are Transforming Financial Markets | Donald MacKenzie | History and background to hft trading | Finance |
+| Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers | Andy Greenberg | Russian Sandworm hacking group | Non-Fiction |
+| The Gnostic Bible | Willis Barnstone, Marvin W. Meyer | Detailed coverage of Gnosticism | Religion |
+| A Preponderance of Power: National Security, the Truman Administration, and the Cold War | Melvyn P. Leffler | American Cold War history | History |
+| The War for Righteousness: Progressive Christianity, the Great War, and the Rise of the Messianic Nation | Richard M. Gamble | American history | History |
 
 
 ### What I have read
