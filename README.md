@@ -14,6 +14,8 @@ Books that I have read are not always endorsements of those books. I believe tha
 | The Most Human Human | Brian Christian | What Talking with Computers Teaches Us About What It Means to Be Alive | Science, AI |
 | Proof of Stake | Vitalik Buterin | The Making of Ethereum and the Philosophy of Blockchains | Blockchains |
 | Rust for Rustacians | Jon Gjengset | Idiomatic Programing for Experienced Developers | Programming |
+| Gödel, Escher, Bach | Douglas Hofstadter | An Eternal Golden Braid | Cognitive Science |
+
 
 ### What I have read
 
