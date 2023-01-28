@@ -21,7 +21,13 @@ Books that I have read are not always endorsements of those books. I believe tha
 | The Gnostic Bible | Willis Barnstone, Marvin W. Meyer | Detailed coverage of Gnosticism | Religion |
 | A Preponderance of Power: National Security, the Truman Administration, and the Cold War | Melvyn P. Leffler | American Cold War history | History |
 | The War for Righteousness: Progressive Christianity, the Great War, and the Rise of the Messianic Nation | Richard M. Gamble | American history | History |
-
+| The Surrender Experiment: My Journey into Life's Perfection | Michael A. Singer | Letting Go | Philosophy |
+| Obviously Awesome | April Dunford | How to Nail Product Positioning so Customers Get It, Buy It, Love It | Business theory |
+| Running Lean | Ash Maurya | Iterate from Plan A to a Plan That Works | Business |
+| Predictable Revenue | Aaron Ross | Best Sales Practices | Business |
+| $100m Dolalr Offers | Alex Hormozi | How to Make Offers So Good People Feel Stupid Saying No | Business |
+| Fit for Life | Harvey Diamond | Health and Longevity | Health |
+| Expert Secrets | Russell Brunson | Secrets of Selling | Business |
 
 ### What I have read
 
@@ -29,7 +35,7 @@ Books that I have read are not always endorsements of those books. I believe tha
 |--------------|-----------|---------|-------|
 | Atomic Habits  | James Clear | Tiny Changes, Remarkable Results | Psychology |
 | No Rules Rules | Reed Hastings and Erin Meyer | Hard work is irrelevant. Be radically honest. And never, ever try to please your boss. | Business|
-| The Innovator's Dilemma | Clayton Christensen | When New Technologies Cause Great Firms to Fail | Business theory|
+| The Innovator's Dilemma | Clayton Christensen | When New Technologies Cause Great Firms to Fail | Business theory |
 | The Code Book | Simon Singh | The Science of Secrecy from Ancient Egypt to Quantum Cryptography | Non-Fiction |
 | Perminant Record | Edward Snowden | Edward Snowden | Autobiography |
 | When Things Fall Apart | Pema Chodren | Heart Advice for Difficult times | 	Tibetan Buddhism |
