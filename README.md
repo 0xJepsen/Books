@@ -25,9 +25,10 @@ Books that I have read are not always endorsements of those books. I believe tha
 | Obviously Awesome | April Dunford | How to Nail Product Positioning so Customers Get It, Buy It, Love It | Business theory |
 | Running Lean | Ash Maurya | Iterate from Plan A to a Plan That Works | Business |
 | Predictable Revenue | Aaron Ross | Best Sales Practices | Business |
-| $100m Dolalr Offers | Alex Hormozi | How to Make Offers So Good People Feel Stupid Saying No | Business |
+| $100m Dollar Offers | Alex Hormozi | How to Make Offers So Good People Feel Stupid Saying No | Business |
 | Fit for Life | Harvey Diamond | Health and Longevity | Health |
 | Expert Secrets | Russell Brunson | Secrets of Selling | Business |
+| The Sovereign Individual | Davidson / Rees-Mogg | Transition into the Information Age | Economy and Culture |
 
 ### What I have read
 
