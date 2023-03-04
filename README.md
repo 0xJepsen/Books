@@ -8,10 +8,6 @@ Books that I have read are not always endorsements of those books. I believe tha
 
 | Title        | Author    | Summary | Genre |
 |--------------|-----------|---------|-------|
-| The Beginning of Infinity | David Deutsch | - | Science |
-| The Fabric of Reality | David Deutsch | - | Science |
-| Skin in the Game | Nassim Taleb | - | Science |
-| The Black Swan | Nassim Taleb | - | Science |
 | Quantitative Portfolio Management  | Michael Isichenko | The Art and Science of Statistical Arbitrage |  Business + Money Management |
 | Hackers and Painters | Paul Graham | Big Ideas From the Computer Age| Programming |
 | Why We Sleep | Matthew Walker | The New Science of Sleep and Dreams | Science |
@@ -33,6 +29,10 @@ Books that I have read are not always endorsements of those books. I believe tha
 | Fit for Life | Harvey Diamond | Health and Longevity | Health |
 | Expert Secrets | Russell Brunson | Secrets of Selling | Business |
 | The Sovereign Individual | Davidson / Rees-Mogg | Transition into the Information Age | Economy and Culture |
+| The Beginning of Infinity | David Deutsch | - | Science |
+| The Fabric of Reality | David Deutsch | - | Science |
+| Skin in the Game | Nassim Taleb | - | Science |
+| The Black Swan | Nassim Taleb | - | Science |
 
 ### What I have read
 
