@@ -33,6 +33,7 @@ Books that I have read are not always endorsements of those books. I believe tha
 | The Fabric of Reality | David Deutsch | - | Science |
 | Skin in the Game | Nassim Taleb | - | Science |
 | The Black Swan | Nassim Taleb | - | Science |
+| The Tipping Point: How Little Things Can Make a Big Difference | Malcolm Gladwell | Sociological changes that mark everyday life | Human sociology, culture |
 
 ### What I have read
 
