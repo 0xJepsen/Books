@@ -33,6 +33,7 @@ Books that I have read are not always endorsements of those books. I believe tha
 | The Fabric of Reality | David Deutsch | - | Science |
 | Skin in the Game | Nassim Taleb | - | Science |
 | The Black Swan | Nassim Taleb | - | Science |
+| The Tipping Point: How Little Things Can Make a Big Difference | Malcolm Gladwell | Sociological changes that mark everyday life | Human sociology, culture |
 
 ### What I have read
 
@@ -70,6 +71,5 @@ Books that I have read are not always endorsements of those books. I believe tha
 | The Intelligent Heart | Kongtrul Rinpoche and Joseph Waxman | A Guide to a Compassionate Life | Tibetan Buddhism |
 | The Tibetan way of Life Death and Rebirth | John Peacock | Tibet’s Ancient Bon religion | Tibetan Buddhism, Folklore |
 | How to win friends and influence people | Dale Carnegie | How to stop worrying and start living | Self Help |
-| The Tipping Point: How Little Things Can Make a Big Difference | Malcolm Gladwell | Sociological changes that mark everyday life | Human sociology, culture |
 
 This list will likely grow as I remember to add to it. This list currently excludes a large quantity of fantasy and fiction books that I read during my Childhood. 
