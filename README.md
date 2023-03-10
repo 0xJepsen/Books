@@ -8,20 +8,17 @@ Books that I have read are not always endorsements of those books. I believe tha
 
 | Title        | Author    | Summary | Genre |
 |--------------|-----------|---------|-------|
-| Quantitative Portfolio Management  | Michael Isichenko | The Art and Science of Statistical Arbitrage |  Business + Money Management |
-| Hackers and Painters | Paul Graham | Big Ideas From the Computer Age| Programming |
+| The Surrender Experiment: My Journey into Life's Perfection | Michael A. Singer | Letting Go | Philosophy |
+| Gödel, Escher, Bach | Douglas Hofstadter | An Eternal Golden Braid | Cognitive Science |
+| Proof of Stake | Vitalik Buterin | The Making of Ethereum and the Philosophy of Blockchains | Blockchains |
 | Why We Sleep | Matthew Walker | The New Science of Sleep and Dreams | Science |
 | The Most Human Human | Brian Christian | What Talking with Computers Teaches Us About What It Means to Be Alive | Science, AI |
-| Proof of Stake | Vitalik Buterin | The Making of Ethereum and the Philosophy of Blockchains | Blockchains |
-| Rust for Rustacians | Jon Gjengset | Idiomatic Programing for Experienced Developers | Programming |
-| Gödel, Escher, Bach | Douglas Hofstadter | An Eternal Golden Braid | Cognitive Science |
 | More Money Than God: Hedge Funds and the Making of a New Elite | Sebastian Mallaby | Detailed history of hedge funds | Finance |
 | Trading at the Speed of Light: How Ultrafast Algorithms Are Transforming Financial Markets | Donald MacKenzie | History and background to hft trading | Finance |
 | Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers | Andy Greenberg | Russian Sandworm hacking group | Non-Fiction |
 | The Gnostic Bible | Willis Barnstone, Marvin W. Meyer | Detailed coverage of Gnosticism | Religion |
 | A Preponderance of Power: National Security, the Truman Administration, and the Cold War | Melvyn P. Leffler | American Cold War history | History |
 | The War for Righteousness: Progressive Christianity, the Great War, and the Rise of the Messianic Nation | Richard M. Gamble | American history | History |
-| The Surrender Experiment: My Journey into Life's Perfection | Michael A. Singer | Letting Go | Philosophy |
 | Obviously Awesome | April Dunford | How to Nail Product Positioning so Customers Get It, Buy It, Love It | Business theory |
 | Running Lean | Ash Maurya | Iterate from Plan A to a Plan That Works | Business |
 | Predictable Revenue | Aaron Ross | Best Sales Practices | Business |
@@ -45,6 +42,9 @@ Books that I have read are not always endorsements of those books. I believe tha
 
 | Title        | Author    | Summary | Genre |
 |--------------|-----------|---------|-------|
+| Rust for Rustacians | Jon Gjengset | Idiomatic Programing for Experienced Developers | Programming |
+| Hackers and Painters | Paul Graham | Big Ideas From the Computer Age| Programming |
+| Quantitative Portfolio Management  | Michael Isichenko | The Art and Science of Statistical Arbitrage |  Business + Money Management |
 | Atomic Habits  | James Clear | Tiny Changes, Remarkable Results | Psychology |
 | No Rules Rules | Reed Hastings and Erin Meyer | Hard work is irrelevant. Be radically honest. And never, ever try to please your boss. | Business|
 | The Innovator's Dilemma | Clayton Christensen | When New Technologies Cause Great Firms to Fail | Business theory |
