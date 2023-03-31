@@ -34,6 +34,7 @@ Books that I have read are not always endorsements of those books. I believe tha
 | Good Omens | Neil Gaiman & Terry Pratchett | - | Fantasy |
 | Babel, or the Necessity of Violence | R. F. Kuang | - | Fantasy/Alternate History
 | Consciousness Explained | Daniel Dennett | - | Cognitive Science
+| The Man Who Loved Only Numbers: The Story of Paul Erdos and the Search for Mathematical Truth | Paul Hoffman | Learn about number theory and get to know Paul Erdos, a man who never lost his childlike curiosity | Math, Biography
 
 
 
