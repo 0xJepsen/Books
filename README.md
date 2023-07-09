@@ -8,8 +8,9 @@ Books that I have read are not always endorsements of those books. I believe tha
 
 | Title        | Author    | Summary | Genre |
 |--------------|-----------|---------|-------|
-| Timeless way of building | | |
+| Timeless way of building |  |  | Science |
 | Gödel, Escher, Bach | Douglas Hofstadter | An Eternal Golden Braid | Cognitive Science |
+| Causality Models, Reasoning, and Inference | Judea Pearl | A comprehensive exposition of modern analysis of causation | Science |
 | Proof of Stake | Vitalik Buterin | The Making of Ethereum and the Philosophy of Blockchains | Blockchains |
 | Why We Sleep | Matthew Walker | The New Science of Sleep and Dreams | Science |
 | The Most Human Human | Brian Christian | What Talking with Computers Teaches Us About What It Means to Be Alive | Science, AI |
