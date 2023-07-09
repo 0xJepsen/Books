@@ -8,6 +8,7 @@ Books that I have read are not always endorsements of those books. I believe tha
 
 | Title        | Author    | Summary | Genre |
 |--------------|-----------|---------|-------|
+| Timeless way of building | | |
 | Gödel, Escher, Bach | Douglas Hofstadter | An Eternal Golden Braid | Cognitive Science |
 | Proof of Stake | Vitalik Buterin | The Making of Ethereum and the Philosophy of Blockchains | Blockchains |
 | Why We Sleep | Matthew Walker | The New Science of Sleep and Dreams | Science |
@@ -42,6 +43,7 @@ Books that I have read are not always endorsements of those books. I believe tha
 
 | Title        | Author    | Summary | Genre |
 |--------------|-----------|---------|-------|
+| Ikigai | Francesc Miralles and Hector Garcia | Guide to fullfilling life | Philosophy |
 | The Surrender Experiment: My Journey into Life's Perfection | Michael A. Singer | Letting Go | Philosophy |
 | Rust for Rustacians | Jon Gjengset | Idiomatic Programing for Experienced Developers | Programming |
 | Hackers and Painters | Paul Graham | Big Ideas From the Computer Age| Programming |
